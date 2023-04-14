@@ -1,0 +1,51 @@
+body{
+    background-image: url(../download.gif);
+}
+fieldset{
+    background-image: url(../images/back3.gif);
+    background-repeat: repeat;
+    font-family: 'Times New Roman';
+    color: whitesmoke;
+    font-size: 20px;
+}
+.booking{
+    height: 54%;
+    width: 20%;
+    border-radius: 10%;
+    float: right;
+}
+img{
+    height: 90px;
+    width: 120px;
+    
+}
+.car-book{
+    float: center;
+    border-radius: 90%;
+    margin-top: 15%;
+}
+button{
+    background: yellow;
+    color: white;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+}
+.bookin{
+    color: white;
+    float: center;
+    height: 7%;
+    width: 30%;
+    margin-right: 10px;
+}
+.destination{
+    height: 57%;
+    width: 60%;
+    border-radius: 10%;
+    float: left;
+}
+.img-dest{
+    float: center;
+    border-radius: none;
+    margin-top: 5%;
+}
+}

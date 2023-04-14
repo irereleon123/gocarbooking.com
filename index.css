@@ -1,0 +1,184 @@
+body{
+    background-image: url(../download.gif);
+    background-color: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-bar{
+  color: #fff;
+  padding: 30px;
+  font-family: sans-serif;
+  font-size: 22px;
+}
+
+ul{
+float: center;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+ul li{
+list-style: none;
+margin-left: 62px;
+margin-top: 10px;
+font-size: 13px;
+}
+
+ul li a{
+text-decoration: none;
+color: rgb(252, 252, 252);
+font-family: 'Times New Roman';
+font-weight: bold;
+padding: 5px 20px;
+border: 9px solid transparent;
+transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+color: #ff7200;
+background-color: rgb(0,45,117);
+
+}
+
+.search{
+width: 330px;
+float:left;
+margin-bottom: 270px;
+}
+
+.search{
+    width: 330px;
+    float:right;
+    margin-bottom: 270px;
+    }
+    
+    .srch{
+    font-family: 'Times New Roman';
+    width:150px;
+    height: 40px;
+    background: #5058a0;
+    border: 1px solid #ff7200;
+    margin-top: 13px;
+    color: #000000;
+    border-right: none;
+    font-size: 16px;
+    float:left;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px:
+    }
+
+.lee{
+   width: 120px;
+   height: 40px;
+   margin-right: 20%;
+   background: #ff7200;
+   border-radius: 20px;
+   padding-right: 20px;
+  
+}
+
+.btn{
+    width:70px;
+    height: 40px;
+    background: #ff7200;
+    border-radius: 2px solid #ff7200;
+    margin-top: 13px;
+    color: #fff;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    }
+    
+    .btn:focus{
+    outline:none;
+    }
+    
+    .btn:focus{
+    outline:none
+    }
+
+fieldset{
+    background-image: url(../images/bus_banner_deal.png);
+}
+.btn-admin{
+    float: right;
+    margin-right: 10%;
+    background: #ff7200;
+    height: 50px;
+    width: 120px;
+    border-radius: 2%;
+}
+.admin{
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+    float: right;
+    margin-right: 10px;
+    height: 40px;
+    width: 50px;
+}
+.btn-f{
+    color: #000000;
+    background-color: #ff7200;
+    padding: auto;
+}
+.content{
+    width:1200px;
+    height:auto;
+    margin:auto;
+    color: greenyellow;
+    position: relative;
+    font-size:19px;
+  }
+
+  .content .book{
+    padding-left:20px;
+    padding-bottom: 25px;
+    font-family:1.2px;
+    line-height: 30px;
+  }
+
+  .content h1{
+    color: #fff;
+    font-family: 'Times New Roman';
+    font-size:50px;
+    margin-top: 10%;
+  }
+
+  .content .cn{
+    width: 160px;
+    height: 40px;
+    background: #ff7200;
+    border: none;
+    margin-bottom: 100px;
+    margin-right: 20px;
+    font-size: 18px;
+    border-radius: 18px;
+    cursor: pointer;
+    transition: .4s ease;
+  }
+
+  .content .cn a{
+    text-decoration:none;
+    color: #ffffff;
+    transition: .1s ease;
+  } 
+
+  .cn :hover{
+    background-color: #fff;
+  } 
+
+  .content span{
+    color: #ff7200;
+    font-size: 60px;
+    padding: 1px;
+  }
+  .wel{
+    color: #ff7200;
+  }
+  .footer{
+    background-color: #5058a0;
+  }
